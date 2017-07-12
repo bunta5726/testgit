@@ -223,7 +223,7 @@ You can also add some CSS styles for your pages at: %s.',
 	<ul><li><?php echo __d('cake_dev', 'Join a live session and get skilled with the framework'); ?></li></ul></li>
 	<li><a href="http://cakefest.org"><?php echo __d('cake_dev', 'CakeFest'); ?> </a>
 	<ul><li><?php echo __d('cake_dev', 'Don\'t miss our annual CakePHP conference'); ?></li></ul></li>
-	<li><a href="http://cakefoundation.org"><?php echo __d('cake_dev', 'Cake Software Foundation'); ?> </a>
+	<li><a href="http://cakefoundation.org"><?php echo __d('cake_dev', 'Cake Software 基礎'); ?> </a>
 	<ul><li><?php echo __d('cake_dev', 'Promoting development related to CakePHP'); ?></li></ul></li>
-	<li><a href="https://testupload-uemura-php56.kyoto-dev.e-agency.co.jp/test"><?php echo __d('cake_dev', 'testWork'); ?> </a>
+	<li><a href="https://testupload-uemura-php56.kyoto-dev.e-agency.co.jp/test"><?php echo __d('cake_dev', '変更かけました'); ?> </a>
 </ul>
