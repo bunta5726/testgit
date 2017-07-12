@@ -1,0 +1,23 @@
+{
+    "remotePath": "./projects/testupload",
+    "host": "s1.kyoto-dev.e-agency.co.jp",
+    "username": "uemura",
+    "port": 50022,
+    "secure": true,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": "C:\\Users\\kenichi.uemura\\ssh\\id_rsa",
+    "passphrase": "z5o2eTAJ",
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
